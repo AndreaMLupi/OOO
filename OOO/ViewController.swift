@@ -6,7 +6,12 @@
 //  Copyright © 2020 Andrea Maria Lupi. All rights reserved.
 //
 
+
+
+
+
 import UIKit
+import CoreData
 
 class ViewController: UIViewController {
 
